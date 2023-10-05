@@ -55,7 +55,7 @@ public class LogTestController {
 }
 ```
 
-<img src="../../eeaaomk98.github.io/images/스프링 MVC - 기본 기능/image-20231005135552838.png" alt="image-20231005135552838" style="zoom:80%;" />
+![capture 123](../../../Desktop/capture 123.png)
 
 <br>
 
@@ -149,7 +149,7 @@ public class RequestHeaderController {
 }
 ```
 
-<img src="../../eeaaomk98.github.io/images/스프링 MVC - 기본 기능/image-20231005141840622.png" alt="image-20231005141840622" style="zoom: 67%;" />
+![capture 124](../images/capture 124.png)
 
 <br>
 
