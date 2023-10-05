@@ -147,7 +147,7 @@ public class RequestHeaderController {
 }
 ```
 
-![capture 124](../images/capture 124.png)
+![capture 124](assets/capture 124.png)
 
 <br>
 
