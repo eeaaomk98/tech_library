@@ -54,7 +54,7 @@ public class LogTestController {
         return "ok";
 }
 ```
-<img width="76" alt="image" src="https://github.com/eeaaomk98/tech_library/assets/134247168/94acabd5-3b01-45a2-b653-4619f7730599">
+![capture 123](https://github.com/eeaaomk98/tech_library/assets/134247168/107be151-8a66-47b7-8b49-f965e54f267e)
 
 
 ###  로그 레벨 설정
