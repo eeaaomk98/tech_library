@@ -55,9 +55,7 @@ public class LogTestController {
 }
 ```
 
-![capture 123](../images/capture 123.png)
-
-<br>
+![capture 123](capture 123.png)
 
 ###  로그 레벨 설정
 
