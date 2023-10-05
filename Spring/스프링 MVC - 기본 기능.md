@@ -55,7 +55,8 @@ public class LogTestController {
 }
 ```
 
-![capture 123](스프링 MVC - 기본 기능.assets/capture 123.png)
+![capture 123](https://github.com/eeaaomk98/tech_library/assets/134247168/9296e10b-9a8c-46c3-ae11-14e27aa8c50f)
+
 
 ###  로그 레벨 설정
 
@@ -147,7 +148,8 @@ public class RequestHeaderController {
 }
 ```
 
-![capture 124](assets/capture 124.png)
+<img width="589" alt="capture 124" src="https://github.com/eeaaomk98/tech_library/assets/134247168/fcaae9cd-5e8a-4b80-9b7a-39b7a64ce9ff">
+
 
 <br>
 
