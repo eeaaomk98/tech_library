@@ -55,11 +55,11 @@ public class LogTestController {
 }
 ```
 
-![capture 123](../../../Desktop/capture 123.png)
+![capture 123](../images/capture 123.png)
 
 <br>
 
-### 로그 레벨 설정
+###  로그 레벨 설정
 
 `application.properties`에서 로그 레벨을 설정할 수 있다.
 
